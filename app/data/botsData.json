@@ -1,0 +1,80 @@
+{
+  "bots": [
+    {
+      "id": "bot_1",
+      "name": "Alpha",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Alpha&backgroundColor=BFFF00",
+      "color": "#BFFF00",
+      "wins": 45,
+      "losses": 23,
+      "winRate": 66,
+      "currentOdds": 0.45,
+      "votes": 1250,
+      "strategy": "Aggressive"
+    },
+    {
+      "id": "bot_2",
+      "name": "Beta",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Beta&backgroundColor=00E5FF",
+      "color": "#00E5FF",
+      "wins": 38,
+      "losses": 30,
+      "winRate": 56,
+      "currentOdds": 0.52,
+      "votes": 890,
+      "strategy": "Balanced"
+    },
+    {
+      "id": "bot_3",
+      "name": "Gamma",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Gamma&backgroundColor=FF00E5",
+      "color": "#FF00E5",
+      "wins": 42,
+      "losses": 26,
+      "winRate": 62,
+      "currentOdds": 0.48,
+      "votes": 1050,
+      "strategy": "Defensive"
+    },
+    {
+      "id": "bot_4",
+      "name": "Delta",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Delta&backgroundColor=EF4444",
+      "color": "#EF4444",
+      "wins": 35,
+      "losses": 33,
+      "winRate": 51,
+      "currentOdds": 0.55,
+      "votes": 720,
+      "strategy": "Random"
+    },
+    {
+      "id": "bot_5",
+      "name": "Epsilon",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Epsilon&backgroundColor=06B6D4",
+      "color": "#06B6D4",
+      "wins": 40,
+      "losses": 28,
+      "winRate": 59,
+      "currentOdds": 0.50,
+      "votes": 980,
+      "strategy": "Calculated"
+    },
+    {
+      "id": "bot_6",
+      "name": "Zeta",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=Zeta&backgroundColor=F59E0B",
+      "color": "#F59E0B",
+      "wins": 33,
+      "losses": 35,
+      "winRate": 49,
+      "currentOdds": 0.58,
+      "votes": 650,
+      "strategy": "Adaptive"
+    }
+  ],
+  "currentGame": 1,
+  "totalGames": 3,
+  "nextGameIn": 60,
+  "prizePool": 1250
+}

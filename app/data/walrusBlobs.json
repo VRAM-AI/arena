@@ -1,0 +1,29 @@
+{
+  "tournament_id": "ARENA_001",
+  "walrus_storage": {
+    "agent_alpha": {
+      "blob_id": "0x5f3a8c2b1e9d7f4a6c8e2b5d9f1a3c5e7b9d",
+      "content_hash": "0xabe123def456",
+      "size_bytes": 2048,
+      "stored_at": "2024-11-24T10:15:00Z",
+      "data_type": "agent_performance_log",
+      "status": "verified"
+    },
+    "agent_beta": {
+      "blob_id": "0x7d4e5f6a8b9c1d2e3f4a5b6c7d8e9f0a1b2c",
+      "content_hash": "0xcd789ghi012",
+      "size_bytes": 3456,
+      "stored_at": "2024-11-24T10:15:00Z",
+      "data_type": "agent_performance_log",
+      "status": "verified"
+    },
+    "agent_gamma": {
+      "blob_id": "0x9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f",
+      "content_hash": "0xjkl345mno678",
+      "size_bytes": 4096,
+      "stored_at": "2024-11-24T10:15:00Z",
+      "data_type": "agent_performance_log",
+      "status": "verified"
+    }
+  }
+}

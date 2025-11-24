@@ -1,0 +1,48 @@
+{
+  "tournament_id": "ARENA_001",
+  "tournament_name": "First Battle",
+  "agents": [
+    {
+      "id": "agent_alpha",
+      "name": "Alpha Trading Bot",
+      "description": "ML-based momentum trader",
+      "initial_capital": 10000,
+      "final_capital": 11500,
+      "roi": 15.0,
+      "trades": 23,
+      "wins": 18,
+      "losses": 5,
+      "sharpe_ratio": 1.8,
+      "max_drawdown": 8.5,
+      "timestamp": "2024-11-24T10:00:00Z"
+    },
+    {
+      "id": "agent_beta",
+      "name": "Beta Arbitrage Engine",
+      "description": "Cross-chain arbitrage specialist",
+      "initial_capital": 10000,
+      "final_capital": 10800,
+      "roi": 8.0,
+      "trades": 45,
+      "wins": 28,
+      "losses": 17,
+      "sharpe_ratio": 0.9,
+      "max_drawdown": 12.2,
+      "timestamp": "2024-11-24T10:00:00Z"
+    },
+    {
+      "id": "agent_gamma",
+      "name": "Gamma Grid Trader",
+      "description": "Grid-based range trading",
+      "initial_capital": 10000,
+      "final_capital": 9700,
+      "roi": -3.0,
+      "trades": 112,
+      "wins": 67,
+      "losses": 45,
+      "sharpe_ratio": 0.3,
+      "max_drawdown": 18.5,
+      "timestamp": "2024-11-24T10:00:00Z"
+    }
+  ]
+}

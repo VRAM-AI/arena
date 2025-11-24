@@ -1,0 +1,35 @@
+{
+  "tournament_id": "ARENA_001",
+  "predictions": [
+    {
+      "prediction_id": "pred_001",
+      "predictor": "User1",
+      "predicted_winner": "agent_alpha",
+      "stake": 100,
+      "odds": 2.5,
+      "outcome": "correct",
+      "payout": 250
+    },
+    {
+      "prediction_id": "pred_002",
+      "predictor": "User2",
+      "predicted_winner": "agent_beta",
+      "stake": 150,
+      "odds": 1.8,
+      "outcome": "incorrect",
+      "payout": 0
+    },
+    {
+      "prediction_id": "pred_003",
+      "predictor": "User3",
+      "predicted_winner": "agent_alpha",
+      "stake": 200,
+      "odds": 2.5,
+      "outcome": "correct",
+      "payout": 500
+    }
+  ],
+  "total_pool": 450,
+  "winners": ["User1", "User3"],
+  "settlement_status": "pending"
+}
